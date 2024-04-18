@@ -92,45 +92,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             </thead>
             <tbody>
                <tr>
-                  <td>hegel_logik02_1816</td>
-                  <td>79</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>harsdoerffer_trichter02_1648</td>
-                  <td>175</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>heine_reisebilder04_1831</td>
+                  <td>heine_reisebilder03_1830</td>
                   <td>40</td>
                   <td/>
                   <td/>
@@ -149,158 +111,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>haller_anfangsgruende05_1772</td>
-                  <td>184</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>haller_anfangsgruende02_1762</td>
-                  <td>132</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-               </tr>
-               <tr>
-                  <td>harsdoerffer_trincier_1640</td>
-                  <td>225</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>hagedorn_sammlung02_1744</td>
-                  <td>172</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>heine_lieder_1827</td>
-                  <td>80</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hegel_phaenomenologie_1807</td>
-                  <td>39</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>happel_roman_1690</td>
-                  <td>107</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>haller_anfangsgruende01_1759</td>
-                  <td>123</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
                   <td>haigold_russland01_1767</td>
                   <td>69</td>
                   <td/>
@@ -309,6 +119,44 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>haeckel_weltraethsel_1899</td>
+                  <td>65</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>heine_reisebilder01_1826</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -339,8 +187,46 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>haller_anfangsgruende04_1768</td>
-                  <td>151</td>
+                  <td>hegel_logik0101_1812</td>
+                  <td>80</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hebel_gedichte_1803</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>haller_anfangsgruende01_1759</td>
+                  <td>123</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -358,52 +244,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>28</td>
                </tr>
                <tr>
-                  <td>haller_anfangsgruende07_1775</td>
-                  <td>108</td>
+                  <td>haller_anfangsgruende02_1762</td>
+                  <td>132</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>hagedorn_sammlung03_1752</td>
-                  <td>68</td>
-                  <td/>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td>12</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>harsdoerffer_trichter01_1650</td>
-                  <td>196</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
@@ -415,33 +263,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>30</td>
                </tr>
                <tr>
-                  <td>haeckel_weltraethsel_1899</td>
-                  <td>65</td>
+                  <td>haller_anfangsgruende03_1766</td>
+                  <td>170</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>haller_anfangsgruende06_1774</td>
-                  <td>107</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -491,139 +320,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>heffter_voelkerrecht_1844</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hagedorn_sammlung01_1742</td>
-                  <td>86</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>heine_reisebilder03_1830</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hecht_einleitung_1749</td>
-                  <td>107</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>hauff_phantasien_1827</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hegel_logik0101_1812</td>
-                  <td>80</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hamann_denkwuerdigkeiten_1759</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
                   <td>heeren_staatensystem_1809</td>
                   <td>85</td>
                   <td/>
@@ -643,8 +339,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>heine_reisebilder02_1827</td>
-                  <td>42</td>
+                  <td>harsdoerffer_trincier_1640</td>
+                  <td>225</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
@@ -653,23 +355,55 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>27</td>
                </tr>
                <tr>
-                  <td>haller_anfangsgruende03_1766</td>
-                  <td>170</td>
+                  <td>haller_anfangsgruende04_1768</td>
+                  <td>151</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>hagedorn_sammlung02_1744</td>
+                  <td>172</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>harsdoerffer_trichter01_1650</td>
+                  <td>196</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
@@ -681,46 +415,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>30</td>
                </tr>
                <tr>
-                  <td>hebel_gedichte_1803</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hauptmann_bahnwaerter_1892</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>heine_reisebilder01_1826</td>
-                  <td>41</td>
+                  <td>heffter_voelkerrecht_1844</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td/>
@@ -757,6 +453,25 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
+                  <td>hauptmann_bahnwaerter_1892</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>harsdoerffer_trichter03_1653</td>
                   <td>147</td>
                   <td/>
@@ -776,6 +491,25 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>28</td>
                </tr>
                <tr>
+                  <td>hamann_denkwuerdigkeiten_1759</td>
+                  <td>75</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
                   <td>haigold_russland02_1772</td>
                   <td>86</td>
                   <td/>
@@ -793,6 +527,272 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>24</td>
+               </tr>
+               <tr>
+                  <td>harsdoerffer_trichter02_1648</td>
+                  <td>175</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>hauff_phantasien_1827</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hecht_einleitung_1749</td>
+                  <td>107</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>haller_anfangsgruende06_1774</td>
+                  <td>107</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>hagedorn_sammlung01_1742</td>
+                  <td>86</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hegel_phaenomenologie_1807</td>
+                  <td>39</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>heine_reisebilder02_1827</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>haller_anfangsgruende07_1775</td>
+                  <td>108</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>heine_reisebilder04_1831</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hegel_logik02_1816</td>
+                  <td>79</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>heine_lieder_1827</td>
+                  <td>80</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>haller_anfangsgruende05_1772</td>
+                  <td>184</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>hagedorn_sammlung03_1752</td>
+                  <td>68</td>
+                  <td/>
+                  <td/>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>happel_roman_1690</td>
+                  <td>107</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
                </tr>
                <tr>
                   <td>haller_anfangsgruende08_1776</td>
